@@ -1,3 +1,19 @@
+
+##### Entrega Módulo 6 RecodePRO #####
+
+Guilherme Millen Azevedo
+
+1. Primeira versão do app da agência de viagens;
+2. Utilizando node.js 16;
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
